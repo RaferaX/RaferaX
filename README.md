@@ -10,7 +10,7 @@
  
  🔭 Atualmente Não estou trabalhando **N/a**
  
- 🌱 Atualmente estou aprendendo **Linguagem de Programação Clojure e Python**
+ 🖥️ Atualmente estou aprendendo **Linguagem de Programação Clojure e Python**
 
  ⚡ Curiosidade **A Programação foi Inventada por uma Mulher**
 
@@ -26,4 +26,20 @@
   <a href="https://RaferaX.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
+</div>
+
+<hr/>
+ 
+<h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,java,clojure,azure" /><br>
+</div>
+
+<br/>
+<hr/>
+
+
+</div>
 </div>
