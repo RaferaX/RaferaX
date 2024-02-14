@@ -2,13 +2,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=FF0000&duration=4000&lines=Olá+Pessoal!+👋;Sou+Rafael+Silva!;" />
 </h1>
 
-<h3 align="center">Estudante, Futuro Desenvolvedor do Brasil</h3>
+<h3 align="center">Estudante, Desenvolvedor Front-End</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 Atualmente Não estou trabalhando **N/a**
  
  🖥️ Atualmente estou aprendendo **Linguagem de Programação Clojure e Python**
 
