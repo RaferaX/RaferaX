@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=FF0000&duration=4000&lines=Olá+Pessoal!+👋;Sou+Rafael+Silva!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=FF0000&duration=4000&lines=Bom+Dia+Princesas+👋;Por favor+Sentem+Na+Glock!;" />
 </h1>
 
 <h3 align="center">Estudante, Desenvolvedor Front-End</h3>
