@@ -30,8 +30,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,replit" />
-    <img src="https://skillicons.dev/icons?i=typescript,react,tailwindcss,vscode" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,java,clojure,azure" />
+    <img src="https://skillicons.dev/icons?i=typescript,react,tailwind,vite,jquery,windows" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,python,java,clojure,azure" />
     <img src="https://skillicons.dev/icons?i=idea,discord,instagram,twitter,linkedin" /><br>
 </div>
 
