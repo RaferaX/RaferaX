@@ -87,9 +87,5 @@
 ## 🐍 Floresta de Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RaferaX/RaferaX/output/snake-hashirama.svg" alt="Cobra comendo as contribuições" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8b5a2b,50:2d6a4f,100:1b4332&section=footer" />
+  <img src="snake.svg" alt="Cobra comendo as contribuições" />
 </div>
