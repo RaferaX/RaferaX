@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1b4332,50:2d6a4f,100:8b5a2b&text=Rafael%20Silva&fontColor=f1e9d2&fontSize=60&fontAlignY=38&desc=Mokuton%20%E2%80%A2%20Desenvolvedor%20Front-End&descColor=f1e9d2&descAlignY=58" />
+<!-- BANNER PRINCIPAL -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1b4332,50:2d6a4f,100:8b5a2b&text=Rafael%20Silva&fontColor=f1e9d2&fontSize=62&fontAlignY=38&desc=Mokuton%20%E2%80%A2%20Desenvolvedor%20Front-End&descColor=f1e9d2&descAlignY=58&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=24&duration=3500&pause=1000&color=52B788&center=true&vCenter=true&width=600&height=50&lines=Ol%C3%A1+Pessoal+%F0%9F%91%8B;Sou+Rafael+Silva!;Cultivando+c%C3%B3digo+como+a+Floresta+de+Konoha+%F0%9F%8C%B3;Vontade+do+Fogo+no+TypeScript+%F0%9F%94%A5" />
+<!-- QUER USAR SEU PRÓPRIO BANNER? Envie assets/banner.png para o repositório,
+     apague o banner de cima e use esta linha:
+<img src="https://raw.githubusercontent.com/RaferaX/RaferaX/main/assets/banner.png" width="100%" />
+-->
+
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=24&duration=3500&pause=1000&color=52B788&center=true&vCenter=true&width=620&height=50&lines=Ol%C3%A1+Pessoal+%F0%9F%91%8B;Sou+Rafael+Silva!;Cultivando+c%C3%B3digo+como+a+Floresta+de+Konoha+%F0%9F%8C%B3;Vontade+do+Fogo+no+TypeScript+%F0%9F%94%A5" />
 
 <h3>Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
@@ -10,7 +16,11 @@
 
 </div>
 
-## 🥷 Ficha Shinobi
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1b4332,50:52b788,100:8b5a2b" width="100%" />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=48&color=0:1b4332,50:2d6a4f,100:8b5a2b&text=Ficha%20Shinobi&fontColor=f1e9d2&fontSize=22&animation=fadeIn" width="100%" />
+</div>
 
 <div align="center">
 
@@ -18,7 +28,7 @@
 |:--|:--|
 | 🍃 **Vila** | Guarulhos – SP |
 | 🎓 **Academia** | Universidade Cruzeiro do Sul |
-| 🌳 **Elemento** | Mokuton (Madeira) — crescimento constante |
+| 🌳 **Elemento** | Mokuton (Madeira): crescimento constante |
 | 🏅 **Rank** | Genin do código, rumo a Jounin |
 | 📖 **Estudando agora** | Java e Python |
 | 🎯 **Missão atual** | Construir projetos full stack para o portfólio |
@@ -27,7 +37,11 @@
 
 > ⚡ **Curiosidade:** a programação foi inventada por uma mulher, Ada Lovelace. Assim como a floresta de Konoha, todo grande sistema começa com uma pequena semente. 🌱
 
-## 🏯 Missões (Projetos)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1b4332,50:52b788,100:8b5a2b" width="100%" />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=48&color=0:1b4332,50:2d6a4f,100:8b5a2b&text=Miss%C3%B5es%20(Projetos)&fontColor=f1e9d2&fontSize=22&animation=fadeIn" width="100%" />
+</div>
 
 <table>
   <tr>
@@ -62,7 +76,11 @@
   </tr>
 </table>
 
-## 🪵 Jutsus (Linguagens, Frameworks e Ferramentas)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1b4332,50:52b788,100:8b5a2b" width="100%" />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=48&color=0:1b4332,50:2d6a4f,100:8b5a2b&text=Jutsus&fontColor=f1e9d2&fontSize=22&animation=fadeIn" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,bootstrap&theme=dark" /><br/>
@@ -70,7 +88,11 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,github,azure,discord&theme=dark" />
 </div>
 
-## 📈 Trilha de Treinamento
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1b4332,50:52b788,100:8b5a2b" width="100%" />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=48&color=0:1b4332,50:2d6a4f,100:8b5a2b&text=Trilha%20de%20Treinamento&fontColor=f1e9d2&fontSize=22&animation=fadeIn" width="100%" />
+</div>
 
 <div align="center">
 
@@ -82,7 +104,23 @@
 
 </div>
 
-## 🎯 Metas da Temporada
+<details>
+<summary><b>📚 Ver meu roteiro de estudos</b></summary>
+
+<br/>
+
+- 🌱 **Fundamentos:** HTML, CSS, JavaScript e lógica de programação
+- 🌿 **Front-End:** React, Next.js, Tailwind e animações com Framer Motion
+- 🌳 **Full Stack:** Node.js, Prisma, PostgreSQL e autenticação
+- 🔥 **Próximos passos:** Java e Python com projetos práticos
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1b4332,50:52b788,100:8b5a2b" width="100%" />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=48&color=0:1b4332,50:2d6a4f,100:8b5a2b&text=Metas%20da%20Temporada&fontColor=f1e9d2&fontSize=22&animation=fadeIn" width="100%" />
+</div>
 
 - [x] Criar meu portfólio pessoal
 - [x] Construir um sistema de finanças fullstack
@@ -91,18 +129,27 @@
 - [ ] Aumentar minhas contribuições no GitHub todo mês
 - [ ] Conquistar minha primeira oportunidade na área 🚀
 
-## 🌳 Palavras do Primeiro Hokage
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1b4332,50:52b788,100:8b5a2b" width="100%" />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=48&color=0:1b4332,50:2d6a4f,100:8b5a2b&text=Palavras%20do%20Primeiro%20Hokage&fontColor=f1e9d2&fontSize=22&animation=fadeIn" width="100%" />
+</div>
 
 <div align="center">
   <i>"Uma floresta não nasce pronta: cada árvore começa como semente, e cada linha de código também." 🌳🔥</i>
 </div>
 
-## 📬 Contato (Mensageiros de Konoha)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1b4332,50:52b788,100:8b5a2b" width="100%" />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=48&color=0:1b4332,50:2d6a4f,100:8b5a2b&text=Contato&fontColor=f1e9d2&fontSize=22&animation=fadeIn" width="100%" />
+</div>
 
 <div align="center">
   <a href="mailto:rafalafirma31@gmail.com"><img src="https://img.shields.io/badge/Gmail-1b4332?style=for-the-badge&logo=gmail&logoColor=f1e9d2" /></a>
   <a href="https://www.linkedin.com/in/rafael-leonardo-820b4328a/"><img src="https://img.shields.io/badge/LinkedIn-2d6a4f?style=for-the-badge&logo=linkedin&logoColor=f1e9d2" /></a>
   <a href="https://github.com/RaferaX"><img src="https://img.shields.io/badge/GitHub-8b5a2b?style=for-the-badge&logo=github&logoColor=f1e9d2" /></a>
+  <a href="https://atualizando-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-52b788?style=for-the-badge&logo=vercel&logoColor=1b4332" /></a>
 </div>
 
 <br/>
@@ -112,6 +159,4 @@
   <img src="https://img.shields.io/github/last-commit/RaferaX/financas-pessoais?style=for-the-badge&label=%C3%9Altimo%20commit&color=8b5a2b&labelColor=1b4332&logoColor=f1e9d2" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8b5a2b,50:2d6a4f,100:1b4332&section=footer" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:8b5a2b,50:2d6a4f,100:1b4332&section=footer&animation=fadeIn" width="100%" />
